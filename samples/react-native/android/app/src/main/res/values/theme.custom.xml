@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Custom" parent="Theme.ReadyRemit.Light">
+    <style name="Theme.Custom" parent="Theme.ReadyRemit.Dark">
         <item name="rrmColorPrimaryShade1">#FF9800</item> //input line, clickable text
         <item name="rrmColorPrimaryShade2">#B16B04</item> //Primary button hover
         <item name="rrmColorPrimaryShade3">#F6AD42</item> //Primary button rippler
