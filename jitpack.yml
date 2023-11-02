@@ -1,0 +1,3 @@
+install: 
+FILE="-Dfile=readyremitlite.aar" 
+mvn install:install-file $FILE -DgroupId=com.brightwell.readyremit.sdk -DartifactId=readyremitsdk -Dversion=6.0 -Dpackaging=aar -DpomFile=pom.xml
