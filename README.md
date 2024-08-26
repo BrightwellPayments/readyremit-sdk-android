@@ -22,8 +22,7 @@
    ```groovy
    dependencies {
         // ...
-        implementation("io.github.brightwellpayments:ReadyRemitSDK:7.2")
-        implementation("io.github.brightwellpayments:ReadyRemitVisa:2.0")
+        implementation("io.github.brightwellpayments:ReadyRemitSDK:v8.0")
    }
    ```
 
