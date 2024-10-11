@@ -22,7 +22,7 @@
    ```groovy
    dependencies {
         // ...
-        implementation("io.github.brightwellpayments:ReadyRemitSDK:v8.0")
+        implementation("io.github.brightwellpayments:ReadyRemitSDK:v8.1")
    }
    ```
 
